@@ -2,6 +2,7 @@
   "friendly_name": "Kasm bædr (Cadio)",
   "image_src": "kasm-b-dr-cadio-.png",
   "description": null,
+  "image_src": "chromium.png",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
