@@ -5,14 +5,14 @@
   "run_config": {
     "hostname": "kasm"
   },
-/*  "exec_config": {
-    "go": {
-      "cmd": "bash -c '/dockerstartup/custom_startup.sh --go --url \"$KASM_URL\"'"
-    },
-    "assign": {
-      "cmd": "bash -c '/dockerstartup/custom_startup.sh --assign --url \"$KASM_URL\"'"
-    }
-  },*/
+//  "exec_config": {
+//   "go": {
+//      "cmd": "bash -c '/dockerstartup/custom_startup.sh --go --url \"$KASM_URL\"'"
+//   },
+//    "assign": {
+//      "cmd": "bash -c '/dockerstartup/custom_startup.sh --assign --url \"$KASM_URL\"'"
+//    }
+//  },
   "categories": [
     "Browser"
   ],
