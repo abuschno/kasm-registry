@@ -19,7 +19,7 @@
       "image": "caido/caido:latest",
       "uncompressed_size_mb": 125,
       "available_tags": [
-        "latest"
+        "latest", "0.49.0", "0.49.0-slim"
       ]
     }
   ]
