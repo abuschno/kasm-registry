@@ -3,7 +3,12 @@
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "caido.png",
   "run_config": {
-    "hostname": "kasm"
+    "hostname": "kasm",
+    "ports": ["8080/tcp"]
+  },
+  "proxy": {
+    "type": "http",
+    "port": 8080
   },
   "categories": [
     "Browser"
@@ -24,4 +29,3 @@
     }
   ]
 }
-
